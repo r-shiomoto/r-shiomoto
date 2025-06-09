@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+r-shiomoto+%F0%9F%91%8B;Python+Developer+%F0%9F%9A%80;Data+Scientist+and+Organic+Chemist+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+r-shiomoto+%F0%9F%91%8B;Python+Developer+%F0%9F%9A%80;Data+Scientist+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 ## 🌟 **About Me**
@@ -39,12 +39,12 @@ Here are some ideas to get you started:
 <td width="400" align="left">
 
 ### 👋 **Hi, I'm r-shiomoto!**
-🚀 **Python Developer** passionate about web-app development  
+🚀 **Python Developer** passionate about solving business problems  
 
 🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Building beautiful web-app applications  
+💼 **Focus:** Building applications solving business problems  
 ☕ **Powered by:** Laziness and curiosity  
-🎯 **Goal:** Creating amazing user experiences  
+🎯 **Goal:** Creating amazing business impacts  
 
 </td>
 </tr>
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 <img src="https://skillicons.dev/icons?i=figma,notion" />
 
 ### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,django" />
 
 </td>
 </tr>
@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 ## 🏆 **GitHub Trophies (Commits)**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=user&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
+  <img src="https://github-profile-trophy.vercel.app/?username=r-shiomoto&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
 </div>
 
 ## 💭 **Random Dev Quote**
